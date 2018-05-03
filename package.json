@@ -1,0 +1,19 @@
+{
+  "name": "knex-sqlite-transactions",
+  "version": "1.0.0",
+  "description": "knex-sqlite-transactions",
+  "scripts": {
+    "test": "mocha -b test.js"
+  },
+  "private": true,
+  "dependencies": {
+    "knex": "^0.14.6",
+    "sqlite3": "^3.1.13"
+  },
+  "author": "Imre Rad",
+  "license": "ISC",
+  "devDependencies": {
+    "assert": "^1.4.1",
+    "chai": "^4.1.2"
+  }
+}
